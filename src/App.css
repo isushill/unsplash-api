@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.hero {
+    padding: 50px;
+    background: #212121;
+    color: white;
+}
+
+.input_box{
+    width: 40%;
+    height:35px;
+    padding: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    text-indent: 2;
+    outline: none;
+     
+}
+.heading {
+    font-weight: bold;
+}
